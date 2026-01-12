@@ -84,4 +84,4 @@ _lightSubscription = stream.listen((sensorEvent) {
 _lightSubscription.cancel();
 ```
 
-You can get the rest of the IDs from [here](https://developer.android.com/reference/android/hardware/Sensor).
+You can get the rest of the IDs from [here](https://developer.android.com/reference/android/hardware/Sensor).Test 2
