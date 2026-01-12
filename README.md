@@ -87,3 +87,4 @@ _lightSubscription.cancel();
 You can get the rest of the IDs from [here](https://developer.android.com/reference/android/hardware/Sensor).Test 2
 full test
 Test 1
+Test 2
